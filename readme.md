@@ -14,4 +14,4 @@ Hi, This is a Disney+ Hotstar front-end clone that I have built using pure HTML,
 * JavaScript
 
 ## Screenshots
-![Website Screenshot]()
+![Website Screenshot](https://github.com/kishlayjeet/Disney-Plus-Hotsatar-Clone/blob/main/preview.png?raw=true)
