@@ -18,7 +18,7 @@ Please note that this website is for educational purposes only and is intended t
 
 ## Screenshots
 
-![Website Screenshot](https://imgur.com/undefined.png)
+![Website Screenshot](https://imgur.com/IEkqgJ5.png)
 
 ## Disclaimer
 
